@@ -18,11 +18,15 @@
 
 ### Privacy and License
 
-This is pure scripting solely for changing the UI design of PUP SIS. No personal data or information is gathered by using this extension. The privacy safety of each user is the top priority of any software or developer. You can check its [LICENSE]() under [MIT License](https://choosealicense.com/licenses/mit/).
+This is pure scripting solely for changing the UI design of PUP SIS. No personal data or information is gathered by using this extension. The privacy safety of each user is the top priority of any software or developer. You can check its [LICENSE](https://github.com/mgachiee/PUP-Olivia-Rodrigo-Theme/blob/main/LICENSE) under [MIT License](https://choosealicense.com/licenses/mit/).
 
-### Acknowledgement
+### Acknowledgements
 
 This PUPSIS Olivia Theme is dedicated to Ms. Jennifer Lumabi, my girlfriend. Feel free to use it! Also, I would like to mention that I was inspired to create my own extension because of the PUPink Extension created by another PUPian, feiryrej.
 
 - [PUPink Link](https://github.com/feiryrej/PUPink)
 - [feiryrej github profile](https://github.com/feiryrej)
+
+### Support
+
+Kindly contact me at [bobadilla.markallen49@gmail.com](bobadilla.markallen49@gmail.com) or you can check my other socials on my [personal website](https://mgachiee.github.io/kram-tech-v1.0/).
