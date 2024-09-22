@@ -22,7 +22,7 @@ This is pure scripting solely for changing the UI design of PUP SIS. No personal
 
 ### Acknowledgements
 
-This PUPSIS Olivia Theme is dedicated to Ms. Jennifer Lumabi, my girlfriend. Feel free to use it! Also, I would like to mention that I was inspired to create my own extension because of the PUPink Extension created by another PUPian, feiryrej.
+This PUPSIS Olivia Theme is dedicated to Ms. Jennifer Lumabi, my girlfriend. Feel free to use it! Also, I would like to mention that I was inspired to create my own extension because of the PUPink Extension created by another PUPian, feiryrej. Lastly, all images used in this extension are downloaded from **Pinterest**.
 
 - [PUPink Link](https://github.com/feiryrej/PUPink)
 - [feiryrej github profile](https://github.com/feiryrej)
