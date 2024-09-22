@@ -29,4 +29,4 @@ This PUPSIS Olivia Theme is dedicated to Ms. Jennifer Lumabi, my girlfriend. Fee
 
 ### Support
 
-Kindly contact me at [bobadilla.markallen49@gmail.com](bobadilla.markallen49@gmail.com) or you can check my other socials on my [personal website](https://mgachiee.github.io/kram-tech-v1.0/).
+Kindly contact me at [bobadilla.markallen49@gmail.com](mailto:bobadilla.markallen49@gmail.com) or you can check my other socials on my [personal website](https://mgachiee.github.io/kram-tech-v1.0/).
