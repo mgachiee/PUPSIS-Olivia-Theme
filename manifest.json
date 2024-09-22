@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "PUPSIS Olivia Rodrigo Theme",
+  "version": "1.0",
+  "description": "An Olivia Rodrigo theme for PUPSIS dedicated to my girlfriend, Jennifer, who's a fan of her.",
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "css": ["style.css"],
+      "matches": [
+        "https://sis1.pup.edu.ph/student/*",
+        "https://sis2.pup.edu.ph/student/*",
+        "https://sis3.pup.edu.ph/student/*",
+        "https://sis4.pup.edu.ph/student/*",
+        "https://sis5.pup.edu.ph/student/*",
+        "https://sis6.pup.edu.ph/student/*",
+        "https://sis7.pup.edu.ph/student/*",
+        "https://sis8.pup.edu.ph/student/*"
+      ]
+    }
+  ],
+  "icons": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/olivia_bg.png",
+        "assets/sour_bg.jpg",
+        "assets/guts_bg.jpg"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
