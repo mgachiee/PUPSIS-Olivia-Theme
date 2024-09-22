@@ -11,10 +11,10 @@
 
 - Click the **Code** button on this repository to ```Download the .zip file```
 - Extract the downloaded **.zip** file
-- Open [Google Chrome Extension](chrome://extensions)
+- Open [Google Chrome Extension](www.chrome://extensions)
 - Turn on the **Developer Mode**
 - On **My Extensions** tab, click ```Load unpacked```
-- Choose the extracted **.zip** file
+- Choose the folder of the extracted **.zip** file
 - You should be able to see the extension on your dashboard.
 - Enable the extension
 - _Note:_ Refresh the website if the background image is not working properly.
