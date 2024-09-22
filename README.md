@@ -16,7 +16,7 @@ This PUPSIS Olivia Theme is dedicated to Ms. Jennifer Lumabi, my girlfriend. Fee
 
 ### Installation
 
-- Click the **Code** button on this repository to ```Download the **.zip** file ```
+- Click the **Code** button on this repository to ```Download the .zip file```
 - Extract the downloaded **.zip** file
 - Open [Google Chrome Extension](chrome://extensions)
 - Turn on the **Developer Mode**
