@@ -1,6 +1,12 @@
-# PUP-Olivia-Rodrigo-Theme
+---
+title: PUPSIS Olivia Theme
+description: A chrome extension for PUPSIS
+image: https://github.com/mgachiee/PUPSIS-Olivia-Theme/blob/main/assets/preview.png
+---
 
-```An Olivia Themed for PUPSIS Portal.```
+# PUPSIS Olivia Theme
+
+```An Olivia Themed for PUPSIS Portal. A safe scripting for changing the UI design of PUPSIS Portal```
 
 ### Preview
 
